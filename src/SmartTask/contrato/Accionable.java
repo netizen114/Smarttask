@@ -1,3 +1,5 @@
+package SmartTask.contrato;
+
 /**
  * Define las acciones mínimas que debe poder realizar una tarea.
  * 

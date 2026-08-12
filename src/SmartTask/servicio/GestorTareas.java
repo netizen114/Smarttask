@@ -1,5 +1,11 @@
+package SmartTask.servicio;
+
 import java.util.ArrayList;
 import java.util.List;
+
+import SmartTask.tareas.modelo.Tarea;
+import SmartTask.tareas.modelo.TareaPersonal;
+import SmartTask.tareas.modelo.TareaTrabajo;
 
 /** 
  * Administrar las tareas.

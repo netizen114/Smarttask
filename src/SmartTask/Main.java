@@ -1,3 +1,7 @@
+package SmartTask;
+
+import SmartTask.vista.MenuConsola;
+
 public class Main{
     
     public static void main(String[]args){

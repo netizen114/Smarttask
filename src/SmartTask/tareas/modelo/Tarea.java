@@ -1,8 +1,12 @@
+package SmartTask.tareas.modelo;
+
+import SmartTask.contrato.Accionable;
+
 /**
  * Representa una tarea genérica de SmartTask.
  * 
  * <p>Es una clase abstracta porque las tareas concretas
- * se representan mediante {@link TareaNormal} y {@link TareaUrgente}.</p>
+ * se representan mediante {@link TareaPersonal} y {@link TareaTrabajo}.</p>
  */
 
 public abstract class Tarea implements Accionable{

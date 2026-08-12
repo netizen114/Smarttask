@@ -1,5 +1,10 @@
+package SmartTask.vista;
+
 import java.util.Scanner;
 import java.util.List;
+
+import SmartTask.servicio.GestorTareas;
+import SmartTask.tareas.modelo.Tarea;
 
 public class MenuConsola {
     private final Scanner teclado = new Scanner(System.in);

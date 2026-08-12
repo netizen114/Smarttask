@@ -1,3 +1,5 @@
+package SmartTask.tareas.modelo;
+
 /**
  * Representa una tarea de caracter personal.
  * 
