@@ -6,6 +6,10 @@ import java.util.List;
 import SmartTask.servicio.GestorTareas;
 import SmartTask.tareas.modelo.Tarea;
 
+/**
+ * Gestiona la interacción entre el usuario y la apliación, mediante un menú en consola.
+ * MenuConsola
+ */
 public class MenuConsola {
     private final Scanner teclado = new Scanner(System.in);
     private final GestorTareas gestor;
